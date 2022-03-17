@@ -130,7 +130,7 @@ github_project_repo = "https://github.com/Opekktar/opekkt"
 # github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "87749f1be0cb3e8c6"
+gcs_engine_id = "52cd3a16a8e4b1d30"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
