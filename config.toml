@@ -190,7 +190,7 @@ enable = true
   icon = "fab fa-gitlab"
   desc = "Follow me on Gitlab to see the latest projects!"
 [[params.links.user]]
-  name ="Gitlab"
+  name ="GitHub"
   url = "https://github.com/opekktar"
   icon = "fab fa-github"
   desc = "Follow me on Github to see the latest projects!"
