@@ -7,7 +7,7 @@ description: "Setup Ghost Blog In FreeBSD Jail"
 weight: 6
 ---
 
-[Matching Blog Post](./)
+[Matching Blog Post](/blog/2022/04/07/ghost-blog/)
 
 #### Create new jail to install Ghost Blog into:
 ```
